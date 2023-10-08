@@ -1,0 +1,33 @@
+/*body {
+    background-image: url('/public/background-image2.jpg');
+    background-size: cover;
+    background-position: absolute;
+    margin: 0; 
+    padding: 0; 
+  }
+  
+    body::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.6); 
+    z-index: -1; 
+  }*/
+
+  .health-details-background {
+    background-image: url('/public/background-image2.jpg');
+    background-size: cover;
+    background-position: relative;
+  }
+
+  .customer-details-background {
+    background-image: url('/public/background-image2.jpg');
+    background-size: cover;
+    background-position: relative;
+  }
+
+  
+  
